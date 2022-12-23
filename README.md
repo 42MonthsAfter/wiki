@@ -20,14 +20,14 @@ Read more in the wiki here: https://github.com/42MonthsAfter/Murder-Island/wiki
 Each will have hosted events every weekend with high tier loot, one-of-a-kind mod vehicles, helicopters and cold hard cash. Join the Discord to get weekly updates on the upcoming events: https://discord.gg/ytjpFJYBhU
 
 ## Join your flavor of choice, or all three:
-**One Your Own**
+**One Your Own : Hard Core Survival**
 `IP Address: 172.15.246.42`
 `Port: 2302`
 
-**PvE + Role Play**
-`IP Address: `
-`Port:`
+**Abandoned : PvE + Role Play**
+`IP Address: 172.15.246.43`
+`Port:2302`
 
-**Murder Isle**
+**Murder Isle : PvP Deathmatch**
 `IP Address: 172.15.246.45`
 `Port: 2502`
